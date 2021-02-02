@@ -1,7 +1,7 @@
 ## HelloWorld
 
 ### App Description
-`TODO:// This app shows basic button functions of Android: Clicking to change colors, resetting to default, chaning the label text, and changing the text from a user.'
+`TODO://` This app shows basic button functions of Android: Clicking to change colors, resetting to default, chaning the label text, and changing the text from a user.
 
 ### App Walk-though
 `TODO://`
